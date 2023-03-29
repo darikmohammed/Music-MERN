@@ -15,15 +15,17 @@ const Table = styled.table`
     cursor: pointer;
   }
   th {
-    background-color: rgb(233, 161, 140);
+    background-color: white;
+    color: black;
   }
 
   tr:nth-child(odd) {
-    background-color: rgb(229, 116, 111);
+    background-color: rgb(208, 133, 5);
   }
 
   tr:nth-child(even) {
-    background-color: rgb(233, 161, 140);
+    background-color: white;
+    color: black;
   }
 `;
 

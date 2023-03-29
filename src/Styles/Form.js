@@ -11,7 +11,7 @@ const Form = styled.form`
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    background-color: rgb(229, 116, 111);
+    background-color: rgb(208, 133, 5);
     padding: 2rem;
     border-radius: 1rem;
 
@@ -20,13 +20,13 @@ const Form = styled.form`
       border-radius: 1rem;
       border: none;
       padding: 1rem 2rem;
-      background-color: rgb(233, 161, 140);
-      color: white;
+      background-color: white;
+      color: black;
     }
   }
 
   h1 {
-    color: rgb(234, 162, 141);
+    color: rgb(208, 133, 5);
     align-self: center;
   }
 

@@ -16,12 +16,12 @@ const EditForm = styled.form`
     border-radius: 1rem;
     border: none;
     padding: 1rem 2rem;
-    background-color: rgb(233, 161, 140);
-    color: white;
+    background-color: white;
+    color: black;
   }
 
   .cancel {
-    background-color: rgb(229, 116, 111);
+    background-color: rgb(208, 133, 5);
   }
 `;
 
